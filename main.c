@@ -11,7 +11,7 @@
    El presente ejemplo se publica sin niguna garantia expresa o 
    implicita de funcionamiento.
 */
-
+//Modificaciòn de Dulce
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
